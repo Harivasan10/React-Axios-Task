@@ -1,0 +1,25 @@
+.dashboard-container {
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.dashboard-container table {
+    width: 100%;
+}
+
+.dashboard-container th {
+    background-color: #f0f0f0;
+    font-weight: bold;
+    text-align: center;
+}
+
+.dashboard-container td {
+    text-align: center;
+    vertical-align: middle;
+}
+
+.dashboard-container .btn {
+    margin-right: 5px;
+}
